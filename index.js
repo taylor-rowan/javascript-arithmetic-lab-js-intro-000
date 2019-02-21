@@ -9,4 +9,3 @@ function subtract(a, b) {
   var dif = a - b;
   return dif;
 };
-
