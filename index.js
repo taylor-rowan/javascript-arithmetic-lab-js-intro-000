@@ -19,3 +19,16 @@ function divide(a, b) {
   var div = a / b;
   return div;
 };
+
+function inc(n) {
+  n = n + 1
+  return n
+}
+
+function dec(n) {}
+
+function makeInt(n) {}
+
+function preserveDecimal(n) {}
+
+
