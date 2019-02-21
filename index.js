@@ -30,6 +30,9 @@ function dec(n) {
   return n;
 };
 
-function makeInt(n) {}
+function makeInt(n) {
+  int = parseInt(n, 10);
+  return n;
+};
 
 function preserveDecimal(n) {}
